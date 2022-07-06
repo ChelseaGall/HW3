@@ -1,0 +1,12 @@
+run:
+Choose a shape
+
+[1] Square
+[2] Rectangle
+[3] Circle
+
+Enter your choice 1 2 or 3: 1
+Enter the side length of the square: 
+4
+Area: 16.00, Perimeter: 16.00
+BUILD SUCCESSFUL (total time: 6 seconds)

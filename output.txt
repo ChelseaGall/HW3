@@ -1,0 +1,40 @@
+Factorial of 1 is 1
+Series sum of 1 is 1
+Fibonacci series for first 1 terms:
+1 
+Factorial of 2 is 2
+Series sum of 2 is 5
+Fibonacci series for first 2 terms:
+1 2 
+Factorial of 3 is 6
+Series sum of 3 is 14
+Fibonacci series for first 3 terms:
+1 2 3 
+Factorial of 4 is 24
+Series sum of 4 is 30
+Fibonacci series for first 4 terms:
+1 2 3 5 
+Factorial of 5 is 120
+Series sum of 5 is 55
+Fibonacci series for first 5 terms:
+1 2 3 5 8 
+Factorial of 6 is 720
+Series sum of 6 is 91
+Fibonacci series for first 6 terms:
+1 2 3 5 8 13 
+Factorial of 7 is 5040
+Series sum of 7 is 140
+Fibonacci series for first 7 terms:
+1 2 3 5 8 13 21 
+Factorial of 8 is 40320
+Series sum of 8 is 204
+Fibonacci series for first 8 terms:
+1 2 3 5 8 13 21 34 
+Factorial of 9 is 362880
+Series sum of 9 is 285
+Fibonacci series for first 9 terms:
+1 2 3 5 8 13 21 34 55 
+Factorial of 10 is 3628800
+Series sum of 10 is 385
+Fibonacci series for first 10 terms:
+1 2 3 5 8 13 21 34 55 89 
